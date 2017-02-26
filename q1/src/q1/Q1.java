@@ -48,6 +48,7 @@ public class Q1 {
         String line;
         while ((line = br.readLine()) !=null){
         String[] rec1 = line.split(",");
+		//passing parameters to girl
         ginfo[i] = new girl(rec1[0],Integer.parseInt(rec1[1]),Integer.parseInt(rec1[2]),Integer.parseInt(rec1[3]));
         i++;
         l1++;
