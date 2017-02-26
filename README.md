@@ -19,4 +19,4 @@ The class diagram is uploaded as classdiag.pdf
 
 Documentation :
 
-Documentation can be found in dist folder
+Documentation can be found under q1/dist/javadoc..
