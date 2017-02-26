@@ -16,7 +16,7 @@ public class girl {
 		budget = expense;
 		intelligence = intellect;
 		status=false;
-		//this.bf = "";
+		
 		
 	}
 }
