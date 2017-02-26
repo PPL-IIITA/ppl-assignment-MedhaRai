@@ -10,7 +10,7 @@ public class boy {
     int intelligence; 
     int req;
     boolean status=false;  //false for single, true for commited
-    //String gf="";
+    
     
     boy(String n,int att, int b,int intel,int minreq)
     {
@@ -20,16 +20,8 @@ public class boy {
         intelligence = intel;
         req = minreq;
 	status= false;
-	//this.gf = "";
-    }
-    /*boolean girlfriend(girl g)
-    {
-        // matches a girl acc to boys's constraints
-        if(budget >=g.budget && req <= g.attractiveness)
-            return true;	
-	else
-            return false;
-    }*/
 	
+    }
+    
 }
 
