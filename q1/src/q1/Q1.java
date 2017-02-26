@@ -31,6 +31,7 @@ public class Q1 {
         
         while ((line = br.readLine()) !=null){
 	String[] rec = line.split(",");
+		//passing parameters to boy
 	binfo[i] = new boy(rec[0],Integer.parseInt(rec[1]),Integer.parseInt(rec[2]),Integer.parseInt(rec[3]),Integer.parseInt(rec[4]));
 	i++;
         l2++;
