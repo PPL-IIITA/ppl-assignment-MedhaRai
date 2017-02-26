@@ -8,7 +8,7 @@ public class girl {
     int budget;
     int intelligence;
     boolean status=false; //false for single, true for commited
-    //String bf="";
+    
 	
     girl(String name,int attract,int expense,int intellect){
 		n = name;
@@ -19,15 +19,4 @@ public class girl {
 		//this.bf = "";
 		
 	}
-	
-    /*boolean boyfriend(boy b)
-    {
-	// matches a boy acc to girl's constraints
-		if( b.budget >= budget )
-			return true;
-		else
-			return false;
-			
-		
-	}*/
 }
