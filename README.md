@@ -18,12 +18,12 @@ The class diagram is uploaded as classdiag.pdf
 
 
 
-###Deployment and testing :
+###For deployment and testing on Linux :
 ```
 1- git clone https://github.com/PPL-IIITA/ppl-assignment-MedhaRai
 ```
 ````
-2- cd cd ppl-assignment-MedhaRai/q1/build/classes
+2- cd ppl-assignment-MedhaRai/q1/build/classes
 ```
 ```
 3- q1.Q1
