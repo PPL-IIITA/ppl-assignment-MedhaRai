@@ -30,6 +30,9 @@ The class diagram is uploaded as classdiag.pdf
 ```
 
 Randomly generated names of girls and boys are provided in g.csv and b.csv files respectively and the couple formed are stored in file logging_utility.csv
+```
+The couples formed are not printed on terminal , they just get stored in logging_utility.csv file
+```
 
 
 ###Documentation :
