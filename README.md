@@ -1,8 +1,8 @@
 # ppl-assignment
-###RIT2015004- Medha Falguni Rai
+### RIT2015004- Medha Falguni Rai
 
 
-###Built System :
+### Built System :
 
 Operating System - Windows 8.1
 
@@ -21,11 +21,10 @@ The class diagram is uploaded as classdiag.pdf
 ###For deployment and testing on Linux :
 ```
 1- git clone https://github.com/PPL-IIITA/ppl-assignment-MedhaRai
-```
-````
+
+
 2- cd ppl-assignment-MedhaRai/q1/build/classes
-```
-```
+
 3- java q1.Q1
 ```
 
@@ -35,6 +34,6 @@ The couples formed are not printed on terminal , they just get stored in logging
 ```
 
 
-###Documentation :
+### Documentation :
 
 Documentation can be found under q1/dist/javadoc.
